@@ -10,7 +10,8 @@ https://stirring-horse-89d386.netlify.app/
 
 ## Features
 
-- Add tasks with title and status (Pending or Completed)
+- Add tasks with title
+- 
 - Delete tasks from the list
 
 ## Installation
@@ -19,6 +20,7 @@ https://stirring-horse-89d386.netlify.app/
 
 # Usage
 Enter a task title in the input field and select the status (Pending or Completed), then click "Add Todo" to add the task.
+
 To delete a task, click the "Delete" button next to the task.
 
 
