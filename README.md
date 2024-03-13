@@ -16,6 +16,7 @@ https://stirring-horse-89d386.netlify.app/
 
 ## Installation
 -> React
+
 -> Redux/toolkit 
 
 # Usage
@@ -26,9 +27,15 @@ To delete a task, click the "Delete" button next to the task.
 
 # Folder Structure
 src/: Contains all the source code.
+
 components/: Contains React components.
+
 reducers/: Contains Redux reducers.
+
 store.js: Redux store configuration.
+
 App.js: Main component that renders the Todo app.
+
 index.js: Entry point of the application.
+
 public/: Contains static assets and the HTML file
